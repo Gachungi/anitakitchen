@@ -1,0 +1,39 @@
+.mainheader{
+  background-image: url("../images/landing.jpg");
+}
+.top{
+  text-align: center;
+}
+.mid{
+  text-align: right;
+}
+
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+
+    .imgContainer{
+        width: 100%;
+    }
+
+}
+
+.image {
+    float: left;
+    width: 33%;
+    img {
+        width: 100%;
+        display: block;
+    }
+}
+
+h3 {
+    text-align: right;
+}
+h4 {
+    text-align: right;
+}
+.drinks{
+  text-align: right;
+}
