@@ -4,10 +4,17 @@
 .top{
   text-align: center;
 }
-.mid{
-  text-align: right;
+
+.modal1{
+  position: left;
+  width: 100px
+
 }
 
+.modal2{
+
+width: 100px
+}
 
 #container {
     max-width: 600px;
@@ -19,21 +26,6 @@
 
 }
 
-.image {
-    float: left;
-    width: 33%;
-    img {
-        width: 100%;
-        display: block;
-    }
-}
-
-h3 {
-    text-align: right;
-}
-h4 {
-    text-align: right;
-}
-.drinks{
-  text-align: right;
+.mid{
+  background-image: url("../images/foodsBg.jpg");
 }
