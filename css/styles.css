@@ -30,6 +30,12 @@ width: 100px
   background-image: url("../images/foodsBg.jpg");
 }
 
-.customers{
-  text-align: center;
+
+
+.bots{
+  background-image: url("../images/subscribe.jpg");
+}
+
+.small{
+  background-color: #F15A29;
 }
