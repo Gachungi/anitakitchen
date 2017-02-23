@@ -7,15 +7,17 @@
 .happy{
 text-align: center;
 background-color: white;
-height: 30px;
-padding: 70px;
+height: 20px;
+padding: 53px;
+width: auto;
 }
 
-.patty{
+.party{
 text-align: center;
 background-color: #F15A29;
-height: 30px;
-padding: 70px;
+height: 20px;
+padding: 53px;
+width: auto;
 }
 
 /*.breakfast{
