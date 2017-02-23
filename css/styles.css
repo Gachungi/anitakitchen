@@ -4,8 +4,24 @@
 .top{
   text-align: center;
 }
+.happy{
+text-align: center;
+background-color: white;
+height: 30px;
+padding: 70px;
+}
 
-.modal1{
+.patty{
+text-align: center;
+background-color: #F15A29;
+height: 30px;
+padding: 70px;
+}
+
+/*.breakfast{
+
+}*/
+/*.modal1{
   position: left;
   width: 100px
 
@@ -14,7 +30,7 @@
 .modal2{
 
 width: 100px
-}
+}*/
 
 #container {
     max-width: 600px;
@@ -28,14 +44,22 @@ width: 100px
 
 .mid{
   background-image: url("../images/foodsBg.jpg");
+
 }
+
+/*#background-call-action{
+  background-image:url("..images/subscribe.jpg");
+
+}*/
 
 
 
 .bots{
   background-image: url("../images/subscribe.jpg");
+  height: 200px
 }
 
 .small{
   background-color: #F15A29;
+  text-align: center;
 }
