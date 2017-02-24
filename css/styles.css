@@ -49,12 +49,13 @@ width: 100px
 
 }
 
-/*#background-call-action{
-  background-image:url("..images/subscribe.jpg");
+.mid { position: relative; }
 
-}*/
+.mid .arrow { position: absolute; top: 150px; }
 
+.mid .arrow.left { left: 0; }
 
+.mid .arrow.right { right: 0; }
 
 .bots{
   background-image: url("../images/subscribe.jpg");
