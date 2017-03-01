@@ -20,13 +20,8 @@ padding: 53px;
 
 }
 
-/*.breakfast{
-
-}*/
-/*.modal1{
-  position: left;
-  width: 100px
-
+.thumbnail{
+  width: 500px
 }
 
 .modal2{
@@ -51,11 +46,11 @@ width: 100px
 
 .mid { position: relative; }
 
-.mid .arrow { position: absolute; top: 150px; }
+.mid .arrow { position: absolute; top: 0; }
 
-.mid .arrow.left { left: 0; }
+.mid .arrow.left { left: 100px; }
 
-.mid .arrow.right { right: 0; }
+.mid .arrow.right { right: 100px; }
 
 .bots{
   background-image: url("../images/subscribe.jpg");
